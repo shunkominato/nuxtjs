@@ -20,7 +20,7 @@
           rel="noopener noreferrer"
           class="button--grey"
         >
-          GitHu
+          GitHub
         </a>
       </div>
     </div>
